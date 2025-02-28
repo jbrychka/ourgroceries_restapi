@@ -1,4 +1,5 @@
 // See https://pypi.org/project/ourgroceries/  for usage documentation
+// This was converted by CoPilot
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
